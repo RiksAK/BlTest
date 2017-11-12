@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">my-game</string>
+    <string name="admob_publisher_id">YOU PUBLISHER ID</string>
+
+</resources>
